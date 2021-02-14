@@ -1,5 +1,5 @@
 ---
-title: <Climate Claims: Thoughts on the Public Discourse over Climate Change>
+title: <Climate Claims: Richard Lindzen and his Thoughts on the Public Discourse over Climate Change>
 layout: default
 nav_order: 2
 ---
